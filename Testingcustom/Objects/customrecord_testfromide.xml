@@ -1,0 +1,25 @@
+<customrecordtype scriptid="customrecord_testfromide">
+    <allowattachments>T</allowattachments>
+    <allowinlinedetaching>T</allowinlinedetaching>
+    <allowquickadd>T</allowquickadd>
+    <enabledle>T</enabledle>
+    <enablekeywords>T</enablekeywords>
+    <enableoptimisticlocking>T</enableoptimisticlocking>
+    <enablesystemnotes>T</enablesystemnotes>
+    <iconbuiltin>T</iconbuiltin>
+    <includeinsearchmenu>T</includeinsearchmenu>
+    <includename>T</includename>
+    <shownotes>T</shownotes>
+    <recordname>test122</recordname>
+    <customrecordcustomfields>
+        <customrecordcustomfield scriptid="custrecord_column1">
+            <accesslevel>2</accesslevel>
+            <description></description>
+            <displaytype>NORMAL</displaytype>
+            <fieldtype>TEXT</fieldtype>
+            <label>column 1</label>
+            <searchlevel>2</searchlevel>
+            <storevalue>T</storevalue>
+        </customrecordcustomfield>
+    </customrecordcustomfields>
+</customrecordtype>
